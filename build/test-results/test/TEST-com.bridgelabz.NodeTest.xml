@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.NodeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-06-21T05:06:40" hostname="DESKTOP-0M348LP" time="0.079">
+<testsuite name="com.bridgelabz.NodeTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-06-21T05:24:32" hostname="DESKTOP-0M348LP" time="0.08">
   <properties/>
-  <testcase name="Given3Numbers_WhenAppended_ToLinkedListShould_BeAddedToLast()" classname="com.bridgelabz.NodeTest" time="0.057"/>
-  <testcase name="Given3Numbers_WhenAdded_ToLinkedListShould_BeAddedOnTop()" classname="com.bridgelabz.NodeTest" time="0.003"/>
+  <testcase name="Given3Numbers_WhenAppended_ToLinkedListShould_BeAddedToLast()" classname="com.bridgelabz.NodeTest" time="0.048"/>
+  <testcase name="Given3Numbers_WhenSearch_AnyNumber_InLinkedList()" classname="com.bridgelabz.NodeTest" time="0.004"/>
+  <testcase name="Given3Numbers_WhenAdded_ToLinkedListShould_BeAddedOnTop()" classname="com.bridgelabz.NodeTest" time="0.001"/>
   <testcase name="Given3Numbers_WhenDeleted_LastNumber_ToLinkedListShould_Become2_Numbers()" classname="com.bridgelabz.NodeTest" time="0.001"/>
-  <testcase name="Given3Numbers_WhenDeleted_ToLinkedListShould_Become2_Numbers()" classname="com.bridgelabz.NodeTest" time="0.003"/>
-  <testcase name="Given3Numbers_WhenLinked_ShouldPassed_LinkedListTest()" classname="com.bridgelabz.NodeTest" time="0.001"/>
-  <testcase name="Given3Numbers_WhenInserted_ToLinkedListShould_BeAddedInBetween()" classname="com.bridgelabz.NodeTest" time="0.001"/>
+  <testcase name="Given3Numbers_WhenDeleted_ToLinkedListShould_Become2_Numbers()" classname="com.bridgelabz.NodeTest" time="0.002"/>
+  <testcase name="Given3Numbers_WhenLinked_ShouldPassed_LinkedListTest()" classname="com.bridgelabz.NodeTest" time="0.01"/>
+  <testcase name="Given3Numbers_WhenInserted_ToLinkedListShould_BeAddedInBetween()" classname="com.bridgelabz.NodeTest" time="0.003"/>
   <system-out><![CDATA[My Nodes: 56-->30-->70
 My Nodes: 56-->30-->70
 ]]></system-out>
