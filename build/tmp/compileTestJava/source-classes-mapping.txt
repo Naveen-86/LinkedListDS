@@ -1,2 +1,2 @@
-com/linkedlist/NodeTest.java
- com.linkedlist.NodeTest
+com/bridgelabz/NodeTest.java
+ com.bridgelabz.NodeTest
